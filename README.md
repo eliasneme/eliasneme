@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @eliasalnemeh
+- 👋 Hi, I’m Elias Alnemeh
 - 👀 I’m interested in web & App development
 - 🌱 I’m currently learning Python
 - 📫 elias.neme@gmail.com
